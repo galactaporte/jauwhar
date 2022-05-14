@@ -1,7 +1,5 @@
-// if (process.env.NODE_ENV !== 'production') {
-//     require('dotenv').parse() // or>> require('dotenv').config();
-// }
 // DATABASE_URL = "mongodb+srv://galactaporte:Y9zuQtn7MIsh2ip6@cluster0.1sq5o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+// DATABASE_URL = "mongodb+srv://galactaporte:C01ck4O5tLAkeuHi@cluster0.1sq5o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 if (process.env.NODE_ENV !== 'production') {
     require('dotenv').config();
