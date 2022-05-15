@@ -4,5 +4,10 @@ The published materials may be in a digital form: an e-book, lesson plans, stude
 Postings can also be made to advertise teaching materials available for circulation within the community (eg: posters, models/ educational games and manipulatives).
 
 Currently the app only allows text entry into the repo via a form (to insert book title, URL links, description, etc) but eventually I hope to find a modest hosting/streaming service. 
+
 Future addition to the app will be a user login feature (category: normal user vs moderator) and also to include a bulletin board to list events, classes, parent-meetups and excursions. 
 
+The files are organised in the 'mvc' convention and the main routes are setup to create:
+
+1. User (ie: author, contributor)
+2. Books (inc postings for non-digital teaching medium)
